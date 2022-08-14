@@ -112,7 +112,6 @@ tags
 *.i*86
 *.x86_64
 *.hex
-./*.bin
 
 # Debug files
 *.dSYM/
@@ -170,3 +169,5 @@ __pycache__
 
 # IOLogger logs
 *_log.csv
+
+binaries/
